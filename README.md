@@ -1,4 +1,4 @@
-# Hiya! Thanks for dropping by my profile
+# Hiya! Thanks for checking out :v:
 
 I'm a frontend developer with 3 years of experience in Vue.js and Nuxt. I specialize in creating responsive and pixel-perfect user interfaces from Figma designs, and integrating Vuex for state management.
 
