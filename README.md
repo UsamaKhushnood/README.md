@@ -1,4 +1,4 @@
-# Hello, I'm Usama Khushnood!
+# Hiya! Thanks for dropping by my profile
 
 I'm a frontend developer with 3 years of experience in Vue.js and Nuxt. I specialize in creating responsive and pixel-perfect user interfaces from Figma designs, and integrating Vuex for state management.
 
