@@ -15,11 +15,11 @@ In addition to my technical skills, I am a team player who enjoys collaborating 
 * JavaScript
 * Figma
 * Git
-* and the list goes on
+* and more!
 
 ## Some of my notable projects include:
 * [Deadstock.ca](https://deadstock-v2-dev.deadstock.co/): An e-commerce website built with Nuxt.js that sells limited-edition sneakers and streetwear. I was responsible for implementing the frontend design and integrating the API for whole project.
-* [Cy-b3lla](https://cy-b3lle.netlify.app/):I had the privilege of spearheading the development of CY-b3lla, an NFT showcase website for Bella Hadid. As the lead developer, I created the website from scratch using Nuxt.js, and was responsible for the entire UI design. It was an exciting opportunity to showcase my skills in both front-end development and design, and I am proud of the results we achieved as a team.
+* [Cy-b3lla](https://cy-b3lle.netlify.app/): I had the privilege of spearheading the development of CY-b3lla, an NFT showcase website for Bella Hadid. As the lead developer, I created the website from scratch using Nuxt.js, and was responsible for the entire UI design. It was an exciting opportunity to showcase my skills in both front-end development and design, and I am proud of the results we achieved as a team.
 * [SmartSign](https://www.smartsign.com/): I had the opportunity to work with SmartSign, a Dubai-based company, where I contributed to the development of their admin dashboard. I was responsible for implementing advanced features such as Vuex store management and API integrations using Nuxt and Vuetify. It was a challenging and rewarding experience that allowed me to deepen my understanding of Vue.js and its related technologies.
 
 ## Fun Fact :smile:
@@ -27,8 +27,8 @@ Although I started my development journey as an Angular developer, I have not ha
 
 ## Favorites List
 * My Favourite Emoji is (thumbup):+1:
-* Favorite Color is Black
-* Favorite Food is Biryaani
-* 
+* Favorite Color is Black :black_circle:
+* Favorite Food is Biryaani :fork_and_knife:
+* Favorite sports is snooker, although I must admit that I am not particularly skilled at it :smile:.
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! I hope you found what you were looking for. If you have any questions or just want to connect, please feel free to reach out. I am always interested in meeting and collaborating with fellow developers. Wishing you all the best in your coding endeavors!
