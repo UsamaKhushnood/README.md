@@ -18,6 +18,8 @@ In addition to my technical skills, I am a team player who enjoys collaborating 
 * and more!
 
 ## Some of my notable projects include:
+* [Novanity](https://novanityart.com/)
+* [BrightChef](https://bright-chef.com/)
 * [Deadstock.ca](https://deadstock-v2-dev.deadstock.co/): An e-commerce website built with Nuxt.js that sells limited-edition sneakers and streetwear. I was responsible for implementing the frontend design and integrating the API for whole project.
 * [Cy-b3lla](https://cy-b3lle.netlify.app/): I had the privilege of spearheading the development of CY-b3lla, an NFT showcase website for Bella Hadid. As the lead developer, I created the website from scratch using Nuxt.js, and was responsible for the entire UI design. It was an exciting opportunity to showcase my skills in both front-end development and design, and I am proud of the results we achieved as a team.
 * [SmartSign](https://www.smartsign.com/): I had the opportunity to work with SmartSign, a Dubai-based company, where I contributed to the development of their admin dashboard. I was responsible for implementing advanced features such as Vuex store management and API integrations using Nuxt and Vuetify. It was a challenging and rewarding experience that allowed me to deepen my understanding of Vue.js and its related technologies.
